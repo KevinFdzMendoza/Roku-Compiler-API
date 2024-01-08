@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="MainScene" extends="Scene">
+    <interface>
+    </interface>
+
+    <children>
+    </children>
+
+    <script type="text/brightscript" uri="MainScene.brs" />
+</component>

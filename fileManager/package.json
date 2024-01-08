@@ -1,0 +1,14 @@
+{
+  "name": "filemanager",
+  "version": "1.0.0",
+  "description": "Manager for the roku files that will be served",
+  "main": "fileManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^6.0.1"
+  }
+}
